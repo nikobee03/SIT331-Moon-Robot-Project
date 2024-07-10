@@ -1,0 +1,6 @@
+@_3._2P_HostAddress = http://localhost:5156
+
+GET {{_3._2P_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
